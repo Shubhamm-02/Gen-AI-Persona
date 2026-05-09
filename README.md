@@ -6,7 +6,7 @@ Built as part of the Prompt Engineering assignment at Scaler Academy.
 
 ## Live Demo
 
-[Deployed Link -- Add after deployment]
+[Deployed Link -- gen-ai-persona-kappa.vercel.app
 
 ## Features
 
